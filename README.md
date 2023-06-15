@@ -22,3 +22,4 @@ Press 5 to exit the program.
 ![Screenshot1](https://github.com/samanthagonzales14/CS303_Assignment1/assets/113536271/cac23ef5-b2b3-41c4-88b6-490ba9ecd08a)
 ![Screenshot2](https://github.com/samanthagonzales14/CS303_Assignment1/assets/113536271/36301039-3752-42d5-8515-944cf9cb4b45)
 ![Screenshot3](https://github.com/samanthagonzales14/CS303_Assignment1/assets/113536271/cab68f55-2cab-4a0c-9770-f3408a96d698)
+![Screenshot4](https://github.com/samanthagonzales14/CS303_Assignment1/assets/113536271/048144fd-8e1a-474c-8b25-763275001527)
