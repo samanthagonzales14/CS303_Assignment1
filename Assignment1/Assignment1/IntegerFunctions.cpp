@@ -44,7 +44,7 @@ void addInteger(int* arr, int size) {
 	cout << "Please enter the value to add: ";
 	cin >> userNum;
 
-	if (arr[size - 1] != 0) {
+	if (arr[size - 1] != 0) {		// checks if last value in array is zero, if not throws error
 		throw out_of_range("Unable to add new value.\n");
 	}
 
