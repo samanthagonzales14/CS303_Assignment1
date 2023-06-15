@@ -8,7 +8,7 @@ Press 2 to modify an integer in the array.
   modify integer by giving an index position and new value.
   try/catch to throw error if index position is outside the bounds of the array size.
 Press 3 to add an integer at the end of the array.
-  adds an integer to the first zero found in the array. which zeros start at index 100 after integers input from file.
+  adds an integer to the first zero found in the array. zeros start at index 100 after integers input from file.
   can only contain 150 integers before throwing an error once the array is full.
   displays array upto the integer that has been appended to the first open zero (integers are seperated by a comma and space).
 Press 4 to remove integer from the array and replace with a zero.
